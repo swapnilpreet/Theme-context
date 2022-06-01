@@ -1,0 +1,9 @@
+.footer{
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    color: black;
+    border: 1px solid red ;
+    height: 30px;
+  }

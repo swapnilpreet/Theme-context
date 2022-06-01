@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  height: 100vh;
+}
+
+.light{
+background-color: rgb(224, 231, 199);
+color: rgb(12, 8, 8);
+
+}
+.dark{
+background-color: rgb(27, 26, 26);
+color: rgb(246, 247, 241);
+}
+
